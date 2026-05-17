@@ -1,7 +1,5 @@
 # CodeCare
-CodeCare: A Gemma 4 Tutor for Beginner Programmers
-
-# CodeCare: 초보 프로그래머를 위한 Gemma 4 튜터
+CodeCare: 초보 프로그래머를 위한 Gemma 4 튜터
 
 ## 프로젝트 요약
 
